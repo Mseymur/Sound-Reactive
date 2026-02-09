@@ -58,6 +58,8 @@ Created as an exploration of generative audio-visual systems.
 
 *   **Seymur Mammadov**
 
+## 📄 License
+
 ---
 
 *[Learn more about the project details here.](https://mseymur.framer.website/projects/sound-reactive)*
